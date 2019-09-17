@@ -1,0 +1,69 @@
+---
+title: "git_01"
+author: "Moises Sales"
+date: "9/16/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Build a Poem with commits to different branches
+Our project will be done using a sequence of save and commits and branch actions.
+<!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
+you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
+
+## First Verse 
+<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+’Twas brillig, and the slithy toves  
+Did gyre and gimble in the wabe:  
+All mimsy were the borogoves,  
+And the mome raths outgrabe.  
+“Beware the Jabberwock, my son!  
+
+## Second Verse
+<!--Put the first five lines of a poem by Robert Frost here!-->
+I have been one acquainted with the night.  
+I have walked out in rain—and back in rain.  
+I have outwalked the furthest city light.  
+I have looked down the saddest city lane.  
+I have passed by the watchman on his beat  
+
+## Third Verse
+<!--Put the first two verses of The Walrus and the Carpenter here!-->
+The sun was shining on the sea,  
+Shining with all his might:  
+He did his very best to make  
+The billows smooth and bright--  
+And this was odd, because it was  
+The middle of the night.  
+
+The moon was shining sulkily,  
+Because she thought the sun  
+Had got no business to be there  
+After the day was done--  
+"It's very rude of him," she said,  
+"To come and spoil the fun!"  
+
+## Last Verse
+<!--Put a short poem of your choice 8-20 lines,here!-->
+Everything’s been said  
+But one last thing about the desert,  
+And it’s awful: During brush fires in the Sonoran desert,  
+Brush fires that happen before the monsoon and in the great,  
+Deep, wide, and smothering heat of the hottest months,  
+The longest months,  
+The hypnotic, immeasurable lulls of August and July—  
+During these summer fires, jackrabbits—  
+Jackrabbits and everything else  
+That lives in the brush of the rolling hills,  
+But jackrabbits especially—  
+Jackrabbits can get caught in the flames,  
+No matter how fast and big and strong and sleek they are.  
+And when they’re caught,  
+Cornered in and against the thick  
+Trunks and thin spines of the cactus,  
+When they can’t back up any more,  
+When they can’t move, the flame—  
+It touches them,  
+And their fur catches fire.  
